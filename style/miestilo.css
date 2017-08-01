@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+.mensajes
+{
+	margin: 20px 0;
+}
+.miMensaje
+{
+	margin: 20px 0;
+	padding: 10px;
+}
+.mensaje
+{
+	overflow:auto;			
+}
+
+.pieMensaje
+{
+	border-top: 1px dotted #CCCCCC;
+	padding:20px;
+}
+
+.izquierda
+{
+	float:left;
+}
+.derecha
+{
+	float:right;
+}
+
+/* MI CUENTA */
+#misDatos
+{
+	margin-bottom: 20px;
+}
